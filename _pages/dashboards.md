@@ -1,0 +1,4 @@
+---
+title: "Dasboards"
+permalink: /dashboards/
+---
