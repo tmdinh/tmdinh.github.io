@@ -1,4 +1,4 @@
 ---
-title: "Dasboards"
+title: "Dashboards"
 permalink: /dashboards/
 ---
